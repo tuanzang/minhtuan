@@ -1,0 +1,21 @@
+.nav-item:hover .dropdown-menu{display: block;}
+button{
+    background-color: bisque;
+    color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+button:hover{
+    background-color: blue;
+}
+li{
+    margin-left: 20px;
+}
+li:hover{
+    color: rgb(209, 30, 30);
+    font-size: larger;
+}
+nav{
+    line-height: 100%;
+}
